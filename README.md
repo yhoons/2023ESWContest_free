@@ -97,9 +97,9 @@ Application
 
 ## Team
 
-|                [오두호](https://github.com/ODooHo)          |               [서영훈](https://github.com/yhoons)          |
+|                [서영훈](https://github.com/yhoons)         |                [오두호](https://github.com/ODooHo)           |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img src="https://avatars.githubusercontent.com/u/57125819?v=4" alt="img" style="zoom:20%"/> | <img src="https://avatars.githubusercontent.com/u/79200729?v=4" alt="img" style="zoom:20%"/> |
+| <img src="https://avatars.githubusercontent.com/u/79200729?v=4" alt="img" style="zoom:20%"/>| <img src="https://avatars.githubusercontent.com/u/57125819?v=4" alt="img" style="zoom:20%"/>  |
 
 ## Reference
 
